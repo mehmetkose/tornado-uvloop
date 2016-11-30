@@ -1,11 +1,3 @@
-# tornado-uvloop
-super simple uvloop class for tornado framework
-
-
-## Usage
-
-
-```python
 
 import tornado.ioloop
 import tornado.web
@@ -30,5 +22,3 @@ if __name__ == "__main__":
     print("Application Running on http://localhost:8888")
     tornado.ioloop.IOLoop.configure(TornadoUvloop)
     tornado.ioloop.IOLoop.current().start()
-
-```
