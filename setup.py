@@ -3,10 +3,10 @@ from distutils.core import setup
 
 setup(
     name='tornado-uvloop',
-    version='0.1.2',
+    version='0.1.3',
     packages=['tornadouvloop'],
     url='https://github.com/mehmetkose/tornado-uvloop',
-    license='WTFPL',
+    license='DWYW',
     author='Mehmet Kose',
     author_email='mehmet@linux.com',
     description='super simple uvloop class for tornado framework',

@@ -1,8 +1,8 @@
 # super simple uvloop class for tornado framework
 # https://github.com/mehmetkose/tornado-uvloop
 
-# Licensed under the MIT license:
-# http://www.opensource.org/licenses/mit-license
+# Licensed under the DWYW license:
+# http://dwyw-license.github.io
 # Copyright (c) 2016 Mehmet Kose mehmet@linux.com
 
 
