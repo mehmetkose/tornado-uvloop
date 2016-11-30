@@ -1,6 +1,19 @@
 # tornado-uvloop
 super simple uvloop class for tornado framework
 
+## Installation
+
+pip install tornado-uvloop
+
+## Requirements
+
+* Python 3.5 and above
+* Tornado 4.x and above
+* Uvloop 0.6 and above
+
+** Important **
+
+Your loop type will be changed. Consider this when using 3rd party modules.
 
 ## Usage
 
