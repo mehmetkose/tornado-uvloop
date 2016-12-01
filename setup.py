@@ -3,7 +3,7 @@ from distutils.core import setup
 
 setup(
     name='tornado-uvloop',
-    version='0.1.3',
+    version='0.1.4',
     packages=['tornadouvloop'],
     url='https://github.com/mehmetkose/tornado-uvloop',
     license='DWYW',
