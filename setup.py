@@ -13,8 +13,8 @@ setup(
     platforms=('linux'),
     keywords=['tornado','asyncio','uvloop'],
     install_requires=[
-        'tornado>=4.4.2',
-        'rethinkdb>=3.2.0',
+        'tornado>=4.4.0',
+        'rethinkdb>=2.3.0',
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',
