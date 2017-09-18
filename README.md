@@ -11,9 +11,9 @@ pip install tornado-uvloop
 * Tornado 4.x and above
 * Uvloop 0.6 and above
 
-** Important **
+### ** Important **
 
-Your loop type will be changed. Consider this when using 3rd party modules.
+> Your loop type will be changed. Consider that while using 3rd party modules.
 
 ## Usage
 
