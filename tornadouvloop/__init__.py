@@ -3,7 +3,7 @@
 
 # Licensed under the DWYW license:
 # http://dwyw-license.github.io
-# Copyright (c) 2016 Mehmet Kose mehmet@linux.com
+# Copyright (c) 2016 Mehmet Kose mehmet.py@gmail.com
 
 
 import tornado.platform
