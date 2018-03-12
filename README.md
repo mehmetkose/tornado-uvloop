@@ -7,9 +7,9 @@ pip install tornado-uvloop
 
 ## Requirements
 
-* Python 3.5 and above
-* Tornado 4.x and above
-* Uvloop 0.6 and above
+* Python 3.5+
+* Tornado 4+
+* Uvloop 0.6+
 
 ### ** Important **
 
