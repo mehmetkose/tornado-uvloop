@@ -6,11 +6,13 @@
 # Copyright (c) 2016 Mehmet Kose mehmet.py@gmail.com
 
 
-import tornado.platform
 import uvloop
 import asyncio
 
-class TornadoUvloop(tornado.platform.asyncio.BaseAsyncIOLoop):
+from tornado.platform.asyncio import BaseAsyncIOLoop
+
+
+class TornadoUvloop(BaseAsyncIOLoop):
 
     def initialize(self, **kwargs):
         loop = uvloop.new_event_loop()
